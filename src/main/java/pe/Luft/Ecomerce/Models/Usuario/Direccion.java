@@ -26,8 +26,4 @@ public class Direccion {
     @JsonBackReference
     private InfoUsuario infoUsuario;
 
-
-
-
-
 }

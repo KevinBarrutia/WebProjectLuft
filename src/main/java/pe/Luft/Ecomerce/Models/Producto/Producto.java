@@ -20,6 +20,7 @@ public class Producto {
     private String nombre;
     private String descripcion;
     private Float precio;
+    private Integer stock;
 
     @Enumerated(EnumType.STRING)
     private EEstado estado;
